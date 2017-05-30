@@ -1,0 +1,15 @@
+.idea
+*.iml
+.DS_Store
+target
+bin
+.module-cache
+out
+
+# Eclipse IDE
+.classpath
+.project
+.settings
+
+node_modules
+npm-debug.log
